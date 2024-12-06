@@ -26,7 +26,11 @@ body {
 /* part1 */
 
 
-
+.ha{
+    padding-left: 20px;
+    font-size: 70px;
+    color: white;
+}
 
 .img-logo {
     width: 6%;
