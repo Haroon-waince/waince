@@ -1,4 +1,0 @@
-firebase init
-firebase deploy
-
-
